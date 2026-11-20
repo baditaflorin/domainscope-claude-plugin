@@ -1,0 +1,26 @@
+{
+  "name": "domainscope",
+  "displayName": "DomainScope",
+  "version": "1.0.0",
+  "description": "Research any company from its website: what it does, the technology it runs on, how large it is, similar sites and AI readiness, from a catalog of over 22 million domains.",
+  "author": {
+    "name": "DomainScope",
+    "url": "https://domainscope.scrapetheworld.org"
+  },
+  "homepage": "https://domainscope.scrapetheworld.org/mcp-directory",
+  "repository": "https://github.com/baditaflorin/domainscope-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "company-research",
+    "domains",
+    "tech-stack",
+    "market-research",
+    "sales-research",
+    "ai-readiness"
+  ],
+  "icon": "./icon.png",
+  "documentationUrl": "https://domainscope.scrapetheworld.org/mcp-directory",
+  "supportUrl": "https://domainscope.scrapetheworld.org/contact",
+  "privacyPolicyUrl": "https://domainscope.scrapetheworld.org/privacy-policy",
+  "termsOfServiceUrl": "https://domainscope.scrapetheworld.org/terms"
+}
