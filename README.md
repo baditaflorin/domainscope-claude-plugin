@@ -2,19 +2,19 @@
 
 Research any company from its website. DomainScope is a catalog of company websites with the signals people ask about when they
 research a business: what the company does, which technology it runs on, how large it is, which sites are similar, and how ready
-its site is for AI agents. This plugin connects Claude to the DomainScope server and adds four skills that tell Claude how to use it well.
+its site is for AI agents. This plugin connects Claude to the DomainScope server and adds five skills that tell Claude how to use it well.
 
 ## What you get
 
 - **A connector** to the DomainScope server (`https://domainscope.scrapetheworld.org/mcp?profile=directory`) with read-only tools: find a
   company's domain, domain profile, search, tech stack, company signals, similar domains, AI readiness, AI catalog, MCP server search, change
-  history, end-of-life technology risk, and country-level market structure.
-- **Skills:** `company-research`, `tech-stack-check`, `market-lookup` and `ai-readiness-check`.
+  history, and country-level market structure.
+- **Skills:** `company-research`, `tech-stack-check`, `market-lookup`, `ai-readiness-check` and `bigger-lists`.
 
 ## Try it
 
 - "What does linear.app do, what is it built on, and which similar sites are there?"
-- "Is this prospect's website running end-of-life software?"
+- "What technology does stripe.com run on, and what changed on it recently?"
 - "How concentrated is the cybersecurity market in Poland?"
 - "Which companies publish MCP servers for payments?"
 
