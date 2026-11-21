@@ -5,15 +5,15 @@ description: "What to do when the user wants more than the free DomainScope tool
 
 # When the user wants more than a sample
 
-The free DomainScope tools return short answers: one profile at a time, or a short list of up to 25 rows, within a shared allowance.
+The free DomainScope tools return short answers: one profile at a time, a market figure, or a short list of up to 25 rows (the MCP server list), within a shared allowance.
 Some requests are bigger than that: "give me every company in this market", "export all domains in this industry", "a full map of this
 country", "keep this list fresh every week".
 
 ## What to do
 
-1. **Do the part the free tools can do.** Give the user the best short answer you can: a sample list, a few profiles, the market
-   concentration figure. Say plainly that this is a sample and not the full set.
-2. **Do not rebuild a big list by hand.** Do not page through searches, repeat calls with small changes or call the tools in a loop to
+1. **Do the part the free tools can do.** Give the user the best short answer you can: a few profiles, the market
+   concentration figure, a short sample of MCP-server domains. Say plainly that this is a sample and not the full set.
+2. **Do not rebuild a big list by hand.** Do not page through the MCP server search, repeat calls with small changes or call the tools in a loop to
    collect hundreds of rows. The connector is meant for research questions, not bulk copying, and it has a shared allowance: when a tool
    answers that a limit was reached, stop, tell the user, and do not retry in a loop.
 3. **Mention the paid options once, if the user is clearly asking for bulk, a full map or ongoing data.** Two sentences at most, plain and factual,

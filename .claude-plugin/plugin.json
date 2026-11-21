@@ -2,7 +2,7 @@
   "name": "domainscope",
   "displayName": "DomainScope",
   "version": "1.0.0",
-  "description": "Research any company from its website: what it does, the technology it runs on, how large it is, similar sites and AI readiness, from a catalog of over 22 million domains.",
+  "description": "Research a company from its website: what its site is about, company signals, AI catalog and MCP servers, and country-level market structure, from a catalog of over 22 million domains.",
   "author": {
     "name": "DomainScope",
     "url": "https://domainscope.scrapetheworld.org"
@@ -13,10 +13,10 @@
   "keywords": [
     "company-research",
     "domains",
-    "tech-stack",
     "market-research",
     "sales-research",
-    "ai-readiness"
+    "ai-catalog",
+    "mcp-servers"
   ],
   "icon": "./icon.png",
   "documentationUrl": "https://domainscope.scrapetheworld.org/mcp-directory",
