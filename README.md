@@ -6,10 +6,10 @@ country's market is structured. This plugin connects Claude to the DomainScope s
 
 ## What you get
 
-- **A connector** to the DomainScope server (`https://domainscope.scrapetheworld.org/mcp?profile=directory`) with 8 read-only tools: domain
-  profile, company signals, AI catalog, MCP server search, and country-level market structure (market index, dimensions, concentration and
-  country context).
-- **Skills:** `company-research`, `market-lookup`, `ai-catalog-check` and `bigger-lists`.
+- **A connector** to the DomainScope server (`https://domainscope.scrapetheworld.org/mcp?profile=directory`) with 10 read-only tools:
+  name-to-domain lookup, domain profile, company signals, AI catalog, AI readiness, MCP server search, and country-level market
+  structure (market index, dimensions, concentration and country context).
+- **Skills:** `company-research`, `market-lookup`, `ai-readiness-check` and `bigger-lists`.
 
 ## Try it
 
@@ -17,6 +17,8 @@ country's market is structured. This plugin connects Claude to the DomainScope s
 - "Does shopify.com publish an AI catalog or an MCP server?"
 - "How concentrated are the industries in Poland?"
 - "Find domains that host MCP servers."
+- "Which domain is eMAG, and how AI-ready is its site?"
+- "What is the governance and digital context of Romania?"
 
 ## Data handling
 
