@@ -2,7 +2,7 @@
   "name": "domainscope",
   "displayName": "DomainScope",
   "version": "1.0.0",
-  "description": "Research a company from its website: what its site is about, company signals, AI catalog and AI readiness, MCP servers, and country-level market structure, from a catalog of over 22 million domains.",
+  "description": "Research a company from its website: what its site is about, company signals, AI catalog and AI readiness, MCP servers, and country-level market structure, from a catalog of over 23 million domains.",
   "author": {
     "name": "DomainScope",
     "url": "https://domainscope.scrapetheworld.org"
